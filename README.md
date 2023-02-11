@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/Docker-001E25?style=for-the-badge&logo=Docker&logoColor=#2496ED"/>
 
 
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fellerrr=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fellerrr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
