@@ -20,3 +20,10 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-cbd5e1?style=for-the-badge&logo=Tailwind CSS&logoColor=#06B6D4"/>
 <img src="https://img.shields.io/badge/Redux-132725?style=for-the-badge&logo=Redux&logoColor=764ABC"/>
 <img src="https://img.shields.io/badge/Docker-001E25?style=for-the-badge&logo=Docker&logoColor=#2496ED"/>
+
+
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fellerrr=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?fellerrr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
