@@ -21,7 +21,14 @@
 <img src="https://img.shields.io/badge/Redux-132725?style=for-the-badge&logo=Redux&logoColor=764ABC"/>
 <img src="https://img.shields.io/badge/Docker-001E25?style=for-the-badge&logo=Docker&logoColor=#2496ED"/>
 
-![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/fellerrr/github-stats/master/generated/languages.svg#gh-light-mode-only) -->
+
+<!-- ![](https://github.com/fellerrr/github-stats/tree/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/fellerrr/github-stats/tree/master/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/fellerrr/github-stats/tree/master/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/fellerrr/github-stats/tree/master/generated/languages.svg#gh-light-mode-only)
+ -->
+
